@@ -10,6 +10,7 @@ import math
 
 # load keypoints based on model
 #  caffe model can be download from 
+# https://drive.google.com/file/d/1-LjIOWlr9kqIrhjjyp8fAcVwePkj61Ck/view?usp=sharing
 caffemodel = 'kp_iter_660000.caffemodel'
 protoFile = 'kp_deploy_linevec.prototxt'
 kpoint = 18
